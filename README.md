@@ -1,4 +1,4 @@
-- i just code sometimes
+- i code sometimes
 
 <!---
 WinterWolfie/WinterWolfie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
